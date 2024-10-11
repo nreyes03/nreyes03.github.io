@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="984aa9b9-5213-42fb-9589-d472ee05dbfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Portfolio/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/images/lead-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/images/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/js/scripts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/libs/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Portfolio/scss/styles.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2nJIsjbeDRpUcvpOAiZersgBNXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/nellie/Desktop/GitHub/CSC2200_inclass_f2024/nreyes03.github.io",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.426" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="984aa9b9-5213-42fb-9589-d472ee05dbfb" name="Changes" comment="" />
+      <created>1728684960680</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728684960680</updated>
+      <workItem from="1728684961749" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
